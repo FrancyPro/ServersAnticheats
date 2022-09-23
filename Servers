@@ -1,0 +1,11 @@
+Format: 
+Server: (Servername)
+Anticheat2: (Anticheat Name #1) (Confidence #1)
+Anticheat1: (Anticheat Name #2) (Confidence #2)
+Extra: (Extra information)
+
+Server: Mineland
+Anticheat: NCP 100%
+Anticheat: Vulcan 100%
+Anticheat: Grim 60%
+Exta: Mineland switches between NCP + Vulcan and Grim every couple of days
