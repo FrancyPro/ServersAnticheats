@@ -4,6 +4,10 @@ Anticheat2: (Anticheat Name #1) (Confidence #1)
 Anticheat1: (Anticheat Name #2) (Confidence #2)
 Extra: (Extra information)
 
+Server: Hypixel
+Anticheat: Watchdog 100%
+Anticheat: NCP 100%
+
 Server: Mineland
 Anticheat: NCP 100%
 Anticheat: Vulcan 100%
