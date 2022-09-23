@@ -34,6 +34,9 @@ Server: SuperCraft
 Anticheat: Vulcan 80% 
 Anticheat: Old Verus 80% 
 
+Server: BlockDrop;
+Anticheat: NCP 100% 
+
 Server: ZoneCraft
 Anticheat: Morgan 100% 
 
@@ -54,4 +57,7 @@ Server: GommeHD
 Anticheat: Intave 100%
 
 Server: Universocraft
-Anticheat: Verus 2.0 Private
+Anticheat: Verus 2.0 Private 100%
+
+Server: PvpLegacy
+Anticheat: Grim 60%
