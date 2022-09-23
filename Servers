@@ -1,43 +1,57 @@
 Format: 
 Server: (Servername)
-Anticheat2: (Anticheat Name #1) (Confidence #1)
-Anticheat1: (Anticheat Name #2) (Confidence #2)
+Anticheat2: (Anticheat Name #1) (Write private if it's private #1) (Confidence #1)
+Anticheat1: (Anticheat Name #2) (Write private if it's private #2) (Confidence #2)
 Extra: (Extra information)
 
 Server: Hypixel
-Anticheat: Watchdog 100%
+Anticheat: Watchdog 100% Private
 Anticheat: NCP 100%
 
 Server: Mineland
-Anticheat: NCP 100%
-Anticheat: Vulcan 100%
-Anticheat: Grim 60%
+Anticheat: NCP 100% 
+Anticheat: Vulcan 100% 
+Anticheat: Grim 60% 
 Exta: Mineland switches between NCP + Vulcan and Grim every couple of days
 
 Server: TrexMine
-Anticheat: Custom 100%
+Anticheat: Custom 100% Private
 
 Server: CoralMC
-Anticheat: Grim 100%
+Anticheat: Grim 100% 
 
 Server: CubeCraft
-Anticheat: NCP 100%
-Anticheat: Sentinel 100%
+Anticheat: NCP 100% 
+Anticheat: Sentinel 100% Private
 
 Server: PikaNetwork
-Anticheat: Matrix 100%
+Anticheat: Matrix 100% 
+
+Server: JartexNetwork
+Anticheat: Matrix 100% 
 
 Server: SuperCraft
-Anticheat: Vulcan 80%
-Anticheat: Old Verus 80%
+Anticheat: Vulcan 80% 
+Anticheat: Old Verus 80% 
 
 Server: ZoneCraft
-Anticheat: Morgan 100%
+Anticheat: Morgan 100% 
 
 Server: Gamester
 Anticheat: Matrix 80%
-Anticheat: Intave 80%
+Anticheat: Intave 80% 
 
 Server: HydraCraft
-Anticheat: Verus 100%
+Anticheat: Verus 100% 
 
+Server: Herobrine
+Anticheat: Intave 100%
+
+Server: Redesky
+Anticheat: AAC5 100%
+
+Server: GommeHD
+Anticheat: Intave 100%
+
+Server: Universocraft
+Anticheat: Verus 2.0 Private
