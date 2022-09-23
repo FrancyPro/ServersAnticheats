@@ -9,3 +9,23 @@ Anticheat: NCP 100%
 Anticheat: Vulcan 100%
 Anticheat: Grim 60%
 Exta: Mineland switches between NCP + Vulcan and Grim every couple of days
+
+Server: TrexMine
+Anticheat: Custom 100%
+
+Server: CoralMC
+Anticheat: Grim 100%
+
+Server: CubeCraft
+Anticheat: NCP 100%
+Anticheat: Sentinel 100%
+
+Server: PikaNetwork
+Anticheat: Matrix 100%
+
+Server: SuperCraft
+Anticheat: Vulcan 80%
+Anticheat: Old Verus 80%
+
+Server: ZoneCraft
+Anticheat: Morgan 100%
