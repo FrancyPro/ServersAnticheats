@@ -11,11 +11,14 @@ Anticheat: NCP 100%
 Server: Mineland
 Anticheat: NCP 100% 
 Anticheat: Vulcan 100% 
-Anticheat: Grim 60% 
-Exta: Mineland switches between NCP + Vulcan and Grim every couple of days
+Anticheat: Intave 100% 
+Anticheat: Matrix 100%
+Extra: Matrix + NCP on anything that isnt skywars solo
 
 Server: TrexMine
-Anticheat: Custom 100% Private
+Anticheat: Intave 100% 
+Anticheat: Vulcan 100% 
+Extra: Vulcan only on prison
 
 Server: CoralMC
 Anticheat: Grim 100% 
@@ -31,18 +34,18 @@ Server: JartexNetwork
 Anticheat: Matrix 100% 
 
 Server: SuperCraft
-Anticheat: Vulcan 80% 
-Anticheat: Old Verus 80% 
+Anticheat: Vulcan 100% 
 
 Server: BlockDrop;
 Anticheat: NCP 100% 
 
 Server: ZoneCraft
-Anticheat: Morgan 100% 
+Anticheat: Morgan 100% Private
 
-Server: Gamester
-Anticheat: Matrix 80%
-Anticheat: Intave 80% 
+Server: Gamster
+Anticheat: Matrix 100%
+Anticheat: Intave 100% 
+Anticheat: Vulcan 100% 
 
 Server: HydraCraft
 Anticheat: Verus 100% 
@@ -50,14 +53,14 @@ Anticheat: Verus 100%
 Server: Herobrine
 Anticheat: Intave 100%
 
-Server: Redesky
-Anticheat: AAC5 100%
-
 Server: GommeHD
 Anticheat: Intave 100%
 
 Server: Universocraft
-Anticheat: Verus 2.0 Private 100%
+Anticheat: Verus 100% 
+Anticheat: NCP 99.9%
 
 Server: PvpLegacy
-Anticheat: Grim 60%
+Anticheat: Grim 100%
+Anticheat: Custom 100% Private
+Extra: Only Grim on kitpvp
