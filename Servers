@@ -72,3 +72,9 @@ Anticheat: Vulcan 100%
 
 Name: play.oceprestige.net
 Anticheat: Vulcan 100%
+
+Server: play.FusionMC.ml
+Anticheat1: FlexedAC (CUSTOM, PRIVATE) %100
+Anticheat2: Vulcan %100
+Anticheat1: Grim %100
+Extra: This server using vulcan + grim + flexedac, for many checks. No bypass smogclient, etc
