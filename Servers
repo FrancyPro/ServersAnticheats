@@ -5,7 +5,7 @@ Anticheat1: (Anticheat Name #2) (Write private if it's private #2) (Confidence #
 Extra: (Extra information)
 
 Server: Hypixel
-Anticheat: Watchdog 100% Private
+Anticheat: Watchdog 100% (Private)
 Anticheat: NCP 100%
 
 Server: Mineland
@@ -15,10 +15,11 @@ Anticheat: Grim 60%
 Exta: Mineland switches between NCP + Vulcan and Grim every couple of days
 
 Server: TrexMine
-Anticheat: Custom 100% Private
+Anticheat: Custom 100% (Private)
 
 Server: CoralMC
-Anticheat: Grim 100% 
+Anticheat: Grim 100% (Custom Fork)
+Anticheat: Vulcan 100%
 
 Server: CubeCraft
 Anticheat: NCP 100% 
@@ -72,3 +73,11 @@ Anticheat: Vulcan 100%
 
 Name: play.oceprestige.net
 Anticheat: Vulcan 100%
+
+Server: ColdPvP
+Anticheat: Verus 100%
+
+Server: Edenmine
+Anticheat: SnitchAC 100% (Grim Fork)
+Anticheat: Vulcan 100%
+Extra: Snitch is currently only on Practice 6.0
